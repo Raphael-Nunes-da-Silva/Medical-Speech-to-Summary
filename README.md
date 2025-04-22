@@ -33,6 +33,5 @@ This project is a smart, voice-activated recording and summarization tool that c
 4. **Save to Google Drive**  
    - Use `pydrive` or the Google Drive API to create and upload a `.txt` or `.docx` summary file automatically
 
----
 
-## 📁 Project Structure
+
